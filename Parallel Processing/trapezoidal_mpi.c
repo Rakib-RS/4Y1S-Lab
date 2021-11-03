@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include "mpi.h"
+#include <mpi.h>
+
 double Trap(
     double left_end;
     double right_end;
